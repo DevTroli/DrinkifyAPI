@@ -7,42 +7,49 @@
       "destacado": true,
       "avaliacao": 4.7,
       "descricao": "Um lugar para bebidas quentes e aromáticas,opção aconchegantes para relaxar com coquetéis diversos sabores e sensações. Assimtendo ingredientes quentes que dão um sabor rico ou  de médio ou alto teor alcoólico",
+      "capa": "https://drinkify-api.vercel.app/images/diadema/capa.png",
          "menu": [
               {
                 "id": 1,
                 "preco": 8.99,
                 "nome": "Café",
-                "description": "O café é uma bebida reconfortante e versátil, apreciada em todo o mundo para qualquer ocasião"
+                "description": "O café é uma bebida reconfortante e versátil, apreciada em todo o mundo para qualquer ocasião",
+                "foto": "https://drinkify-api.vercel.app/images/diadema/cafe.png"
               },
               {
                 "id": 2,
                 "preco": 9.99,
                 "nome": "Chá",
-                "description": "Chá é uma opção de chá que é ideal para quem deseja um estilo mais limpo e cheio de sabor."
+                "description": "Chá é uma opção de chá que é ideal para quem deseja um estilo mais limpo e cheio de sabor.",
+                "foto": "https://drinkify-api.vercel.app/images/diadema/cha.png"
               },
               {
                 "id": 3,
                 "preco": 10.50,
                 "nome": "Chimarrão",
-                "description": "Chimarrão é uma bebida do sul do brasil que é muito consumida em dias de frio."
+                "description": "Chimarrão é uma bebida do sul do brasil que é muito consumida em dias de frio.",
+                "foto": "https://drinkify-api.vercel.app/images/diadema/chimarrao.png"
               },
               {
                 "id": 4,
                 "preco": 12.50,
                 "nome": "Conhaque",
-                "description": "O conhaque é uma bebida sofisticada e envelhecida, feita a partir da destilação de vinho"
+                "description": "O conhaque é uma bebida sofisticada e envelhecida, feita a partir da destilação de vinho",
+                "foto": "https://drinkify-api.vercel.app/images/diadema/conhaque.png"
               },
               {
                 "id": 5,
                 "preco": 10.99,
                 "nome": "Licor",
-                "description": "Licor é uma bebida ideal para quem deseja um estilo mais alcoílico e cheio de sabores vibrantes."
+                "description": "Licor é uma bebida ideal para quem deseja um estilo mais alcoílico e cheio de sabores vibrantes.",
+                "foto": "https://drinkify-api.vercel.app/images/diadema/licor.png"
               },
               {
                 "id": 6,
                 "preco": 9.99,
                 "nome": "Vinho Quente",
-                "description": "Vinho quente é uma bebida que é ideal para quem deseja uma bebida saborosa em um dia quente para se aquecer"
+                "description": "Vinho quente é uma bebida que é ideal para quem deseja uma bebida saborosa em um dia quente para se aquecer",
+                "foto": "https://drinkify-api.vercel.app/images/diadema/vinho-quente.png"
               }
             ]
     },
@@ -53,42 +60,50 @@
       "destacado": true,
       "avaliacao": 4.8,
       "descricao": "Um lugar para bebidas saudáveis para quem gosta de coquetéis ou bebidas com diferentes vitaminas e minerais. sendo feito a partir de ingredientes naturais, que tem um sabor fresco e sem nenhum teor alcoólico",
+      "capa": "https://drinkify-api.vercel.app/images/baixada-santista/capa.png",
          "menu": [
               {
                 "id": 1,
                 "preco": 4.99,
                 "nome": "Agua em lata",
-                "description": "A agua em lata é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "A agua em lata é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/baixada-santista/agua.png"
               },
               {
                 "id": 2,
                 "preco": 6.50,
                 "nome": "Agua de coco",
-                "description": "A agua de coco é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "A agua de coco é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/baixada-santista/agua-de-coco.png"
               },
               {
                 "id": 3,
                 "preco": 7.50,
                 "nome": "Suco em lata",
-                "description": "O suco em lata é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "O suco em lata é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/baixada-santista/suco.png"
               },
               {
                 "id": 4,
                 "preco": 6.99,
                 "nome": "Chá Mate",
-                "description": "A chá mate é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "A chá mate é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/baixada-santista/Mate.png"
               },
               {
                 "id": 5,
                 "preco": 5.50,
                 "nome": "Guarana Antartica",
-                "description": "A guarana antartica é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "A guarana antartica é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/baixada-santista/guarana-antartica.png"
+
               },
               {
                 "id": 6,
                 "preco": 11.50,
                 "nome": "Smothie",
-                "description": "O smoothie é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "O smoothie é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/baixada-santista/Smothie.png"
               }
             ]
 
@@ -100,42 +115,49 @@
       "destacado": true,
       "avaliacao": 4.9,
       "descricao": "Um lugar de bebidas refrescantes comemorar com coquetéis de diversos sabores e sensações. Essas bebidas são obtidas a partir da fermentação, que conferem um sabor frutado e uma baixa ou média graduação alcoólica",
+      "capa": "https://drinkify-api.vercel.app/images/campinas/capa.png",
          "menu": [
               {
                 "id": 1,
                 "preco": 8.50,
                 "nome": "Alua",
-                "description": "A alua é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "A alua é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/campinas/Alua.png"
               },
               {
                 "id": 2,
                 "preco": 7.50,
                 "nome": "Catuaba",
-                "description": "A catuaba é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "A catuaba é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/campinas/Catuaba.png"
               },
               {
                 "id": 3,
                 "preco": 9.99,
                 "nome": "Chandon",
-                "description": "O chandon é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "O chandon é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/campinas/Chandon.png"
               },
               {
                 "id": 4,
                 "preco": 7.50,
                 "nome": "Vinho",
-                "description": "O vinho é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor"
+                "description": "O vinho é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "foto": "https://drinkify-api.vercel.app/images/campinas/Vinho.png"
               },
               {
                 "id": 5,
                 "preco": 10.50,
                 "nome": "Sangria",
-                "description": "O vinho, é uma bebida de origem europeia feita com vinho tinto e especiarias, ideal para os dias quentes"
+                "description": "O vinho, é uma bebida de origem europeia feita com vinho tinto e especiarias, ideal para os dias quentes",
+                "foto": "https://drinkify-api.vercel.app/images/campinas/Sangria.png"
               },
               {
                 "id": 6,
                 "preco": 11.99,
-                "nome": "Sangria",
-                "description": "Sangria, é uma bebida de origem europeia feita com vinho tinto e especiarias, ideal para os dias quentes"
+                "nome": "Cerveja",
+                "description": "A cerveja, é uma bebida de origem europeia feita com vinho tinto e especiarias, ideal para os dias quentes",
+                "foto": "https://drinkify-api.vercel.app/images/campinas/Cerveja.png"
               }
             ]
 
@@ -147,42 +169,49 @@
       "destacado": true,
       "avaliacao": 4.4,
       "descricao": "Temos opções versáteis para quem gosta de animar coquetéis com diferentes combinações e sabores. Essas bebidas são obtidas a partir da destilação de ingredientes que conferem um sabor característico e uma alta graduação alcoólica",
+      "capa": "https://drinkify-api.vercel.app/images/são-paulo/capa.png",
          "menu": [
               {
                 "id": 1,
                 "preco": 15.50,
                 "nome": "Rum",
-                "description": "O café é uma bebida reconfortante e versátil, apreciada em todo o mundo para qualquer ocasião"
+                "description": "O café é uma bebida reconfortante e versátil, apreciada em todo o mundo para qualquer ocasião",
+                "foto": "https://drinkify-api.vercel.app/images/são-paulo/Rum.png"
               },
               {
                 "id": 2,
                 "preco": 8.99,
                 "nome": "Energetico",
-                "description": "O chá é uma bebida reconfortante e versátil, apreciada em todo o mundo, e boa para a saude"
+                "description": "O chá é uma bebida reconfortante e versátil, apreciada em todo o mundo, e boa para a saude",
+                "foto": "https://drinkify-api.vercel.app/images/são-paulo/Energeticos.png"
               },
               {
                 "id": 3,
                 "preco": 9.99,
                 "nome": "Gin-Tonica",
-                "description": "O chimarrão é uma bebida típica do sul Brasileiro, feita com a infusão demate com um sabor levemente amargo"
+                "description": "O chimarrão é uma bebida típica do sul Brasileiro, feita com a infusão demate com um sabor levemente amargo",
+                "foto": "https://drinkify-api.vercel.app/images/são-paulo/gin-tonica.png"
               },
               {
                 "id": 4,
                 "preco": 12.99,
                 "nome": "Tequila",
-                "description": "O conhaque é uma bebida sofisticada e envelhecida, feita a partir da destilação de vinho"
+                "description": "O conhaque é uma bebida sofisticada e envelhecida, feita a partir da destilação de vinho",
+                "foto": "https://drinkify-api.vercel.app/images/são-paulo/tequila.png"
               },
               {
                 "id": 5,
                 "preco": 9.99,
                 "nome": "Cachaça",
-                "description": "O licor é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "O licor é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/são-paulo/Cachaça.png"
               },
               {
                 "id": 6,
                 "preco": 13.9,
                 "nome": "Vodka",
-                "description": "O vinho quente, é uma bebida de origem europeia feita com vinho tinto e especiarias, ideal para os dias quentes"
+                "description": "O vinho quente, é uma bebida de origem europeia feita com vinho tinto e especiarias, ideal para os dias quentes",
+                "foto": "https://drinkify-api.vercel.app/images/são-paulo/Vodka.png"
               }
             ]
 
@@ -194,42 +223,49 @@
       "destacado": true,
       "avaliacao": 4.8,
       "descricao": "bebidas intensas pra curtir uma bebida mais forte, Com um toque complexo e marcante ao paladar. Elas também podem ser consumidas puras ou misturadas com água,refrigerante ou suco, que suavizam ou realçam o sabor dos coquetéis.",
+      "capa": "https://drinkify-api.vercel.app/images/ilhabela/capa.png",
          "menu": [
               {
                 "id": 1,
                 "preco": 10.9,
                 "nome": "Kumbucha",
-                "description": "Kumbucha, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Kumbucha, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/ilhabela/Kumbucha.png"
               },
               {
                 "id": 2,
                 "preco": 9.99,
                 "nome": "Bomberinho",
-                "description": "Bombeirinho, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Bombeirinho, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/ilhabela/Bombeirinho.png"
               },
               {
                 "id": 3,
                 "preco": 8.50,
                 "nome": "Aperol",
-                "description": "Aperol, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Aperol, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/ilhabela/Aperol.png"
               },
               {
                 "id": 4,
                 "preco": 13.50,
                 "nome": "Jurupinga",
-                "description": "Jurupinga, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Jurupinga, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/ilhabela/Jurupinga.png"
               },
               {
                 "id": 5,
                 "preco": 16.99,
                 "nome": "Irish Whisky",
-                "description": "Irish Whisky, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Irish Whisky, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/ilhabela/Irish%20Whisky.png"
               },
               {
                 "id": 6,
                 "preco": 14.50,
                 "nome": "Vermute",
-                "description": "Vermute, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Vermute, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/ilhabela/Vermute.png"
               }
             ]
 
@@ -241,42 +277,49 @@
       "destacado": true,
       "avaliacao": 4.8,
       "descricao": "Oferecemos sofisticadas bebidas para quem gosta de saborear coquetéis gourmetizados com diferentes texturas, aromas e cores vibrantes. Essas bebidas dão um toque suave e aveludado ao paladar sem ter um alto teor alcolico",
+      "capa": "https://drinkify-api.vercel.app/images/holambra/capa.png",
          "menu": [
               {
                 "id": 1,
                 "preco": 19.99,
                 "nome": "Watermellow",
-                "description": "Watermellow, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Watermellow, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/holambra/Watermellow.png"
               },
               {
                 "id": 2,
                 "preco": 17.99,
                 "nome": "Sex and the beach",
-                "description": "Sex and the beach, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Sex and the beach, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/holambra/Sex'n'the-beach.png"
               },
               {
                 "id": 3,
                 "preco": 15.99,
                 "nome": "Manhatthan",
-                "description": "Manhatthan, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Manhatthan, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/holambra/Manhattan.png"
               },
               {
                 "id": 4,
                 "preco": 14.50,
                 "nome": "Martini",
-                "description": "Martini, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Martini, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/holambra/Martini.png"
               },
               {
                 "id": 5,
                 "preco": 17.50,
                 "nome": "Margarita",
-                "description": "Margarita, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Margarita, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/holambra/Margarita.png"
               },
               {
                 "id": 6,
                 "preco": 21.50,
                 "nome": "Stawberry Mojito",
-                "description": "Stawberry Mojito, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes"
+                "description": "Stawberry Mojito, é uma bebida alcoólica doce, composta por álcool misturado com frutas, ervas, temperos, cremes",
+                "foto": "https://drinkify-api.vercel.app/images/holambra/Strawberry%20Mojito.png"
               }
             ]
 
