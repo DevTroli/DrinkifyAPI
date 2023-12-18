@@ -1,0 +1,15 @@
+{
+  "name": "drinkify-api",
+  "version": "1.0.0",
+  "main": "pai/server.js",
+  "repository": "https://github.com/DevTroli/DrinkifyAPI.git",
+  "author": "Troli <brawlixo123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "json-server": "^0.17.4"
+  }
+}
