@@ -6,7 +6,7 @@
       "titulo": "Diadema",
       "destacado": false,
       "tipo": "Arromatizadas",
-      "avaliacao": 4.7,
+      "avaliacao": 4.3,
       "descricao": "Um lugar para bebidas quentes e aromáticas,opção aconchegantes para relaxar com coquetéis diversos sabores e sensações. Assimtendo ingredientes quentes que dão um sabor rico ou  de médio ou alto teor alcoólico",
       "capa": "https://drinkify-api.vercel.app/images/diadema/capa.png",
          "menu": [
@@ -14,7 +14,7 @@
                 "id": 1,
                 "preco": 8.99,
                 "nome": "Café",
-                "descricao": "O café é uma bebida reconfortante e versátil, apreciada em todo o mundo para qualquer ocasião",
+                "descricao": "O café é uma bebida reconfortante e versátil, apreciada em todo o mundo",
                 "foto": "https://drinkify-api.vercel.app/images/diadema/cafe.png"
               },
               {
@@ -42,14 +42,14 @@
                 "id": 5,
                 "preco": 10.99,
                 "nome": "Licor",
-                "descricao": "Licor é uma bebida ideal para quem deseja um estilo mais alcoílico e cheio de sabores vibrantes.",
+                "descricao": "Licor é uma bebida ideal para quem quer um estilo mais alcoílico e cheio de sabores",
                 "foto": "https://drinkify-api.vercel.app/images/diadema/licor.png"
               },
               {
                 "id": 6,
                 "preco": 9.99,
                 "nome": "Vinho Quente",
-                "descricao": "Vinho quente é uma bebida que é ideal para quem deseja uma bebida saborosa em um dia quente para se aquecer",
+                "descricao": "Vinho quente é uma bebida que é ideal para quem deseja uma bebida saborosa",
                 "foto": "https://drinkify-api.vercel.app/images/diadema/vinho-quente.png"
               }
             ]
@@ -96,7 +96,7 @@
                 "id": 5,
                 "preco": 5.50,
                 "nome": "Guarana Antartica",
-                "descricao": "A guarana antartica é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "descricao": "A guarana antartica é uma bebida ideal para quem deseja um estilo mais fresco",
                 "foto": "https://drinkify-api.vercel.app/images/baixada-santista/guarana-antartica.png"
 
               },
@@ -145,7 +145,7 @@
                 "id": 4,
                 "preco": 7.50,
                 "nome": "Vinho",
-                "descricao": "O vinho é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor",
+                "descricao": "O vinho é uma bebida ideal para quem deseja um estilo mais fresco e cheio de sabor, ideal para os dias quentes",
                 "foto": "https://drinkify-api.vercel.app/images/campinas/Vinho.png"
               },
               {
@@ -186,7 +186,7 @@
                 "id": 2,
                 "preco": 8.99,
                 "nome": "Energetico",
-                "descricao": "O chá é uma bebida reconfortante e versátil, apreciada em todo o mundo, e boa para a saude",
+                "descricao": "Como o energetico é uma bebida reconfortante e versátil, apreciada em todo o mundo, e boa para a saude, sei lá o que",
                 "foto": "https://drinkify-api.vercel.app/images/são-paulo/Energeticos.png"
               },
               {
@@ -200,7 +200,7 @@
                 "id": 4,
                 "preco": 12.99,
                 "nome": "Tequila",
-                "descricao": "O conhaque é uma bebida sofisticada e envelhecida, feita a partir da destilação de vinho",
+                "descricao": "A tequila é uma bebida sofisticada e envelhecida, feita a partir da destilação de vinho, sei lá e sei lá oque",
                 "foto": "https://drinkify-api.vercel.app/images/são-paulo/tequila.png"
               },
               {
@@ -226,7 +226,7 @@
       "titulo": "Ilhabela",
       "destacado": false,
       "tipo": "Harmonizadas",
-      "avaliacao": 4.8,
+      "avaliacao": 4.7,
       "descricao": "bebidas intensas pra curtir uma bebida mais forte, Com um toque complexo e marcante ao paladar. Elas também podem ser consumidas puras ou misturadas com água,refrigerante ou suco, que suavizam ou realçam o sabor dos coquetéis.",
       "capa": "https://drinkify-api.vercel.app/images/ilhabela/capa.png",
          "menu": [
@@ -281,7 +281,7 @@
       "titulo": "Holambra",
       "tipo": "Gourmet",
       "destacado": true,
-      "avaliacao": 4.8,
+      "avaliacao": 4.6,
       "descricao": "Oferecemos sofisticadas bebidas para quem gosta de saborear coquetéis gourmetizados com diferentes texturas, aromas e cores vibrantes. Essas bebidas dão um toque suave e aveludado ao paladar sem ter um alto teor alcolico",
       "capa": "https://drinkify-api.vercel.app/images/holambra/capa.png",
          "menu": [
