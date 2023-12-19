@@ -1,8 +1,7 @@
 {
   "Bares": [
     {
-      "id": 1,
-      "slug": "diadema",
+      "id": "diadema",
       "titulo": "Diadema",
       "destacado": false,
       "tipo": "Arromatizadas",
@@ -55,8 +54,7 @@
             ]
     },
     {
-      "id": 2,
-      "slug": "baixada-santista",
+      "id": "baixada-santista",
       "titulo": "Baixada-Santista",
       "destacado": true,
       "tipo": "Refrescante",
@@ -111,8 +109,7 @@
 
     },
     {
-      "id": 3,
-      "slug": "campinas",
+      "id": "campinas",
       "titulo": "Campinas",
       "destacado": true,
       "tipo": "Espulmantes",
@@ -166,8 +163,7 @@
 
     },
     {
-      "id": 4,
-      "slug": "sao-paulo",
+      "id": "sao-paulo",
       "titulo": "São Paulo",
       "destacado": false,
       "tipo": "Destiladas",
@@ -221,8 +217,7 @@
 
     },
     {
-      "id": 5,
-      "slug": "ilhabela",
+      "id": "ilhabela",
       "titulo": "Ilhabela",
       "destacado": false,
       "tipo": "Harmonizadas",
@@ -276,8 +271,7 @@
 
     },
     {
-      "id": 6,
-      "slug": "holambra",
+      "id": "holambra",
       "titulo": "Holambra",
       "tipo": "Gourmet",
       "destacado": true,
