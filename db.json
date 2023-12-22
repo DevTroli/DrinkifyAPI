@@ -345,7 +345,7 @@
                 "description": "string",
                 "city": "string",
                 "zipCode": "string",
-                "number": 12,
+                "number": 12345,
                 "complement": "string"
             }
         },
