@@ -336,7 +336,7 @@
         "products": [
             {
                 "id": 1,
-                "price": 8.99
+                "price": 0
             }
         ],
         "delivery": {
