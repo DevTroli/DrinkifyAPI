@@ -335,8 +335,8 @@
       {
         "products": [
             {
-                "id": 1,
-                "price": 0
+                "id": "number",
+                "price": "number"
             }
         ],
         "delivery": {
@@ -345,7 +345,7 @@
                 "description": "string",
                 "city": "string",
                 "zipCode": "string",
-                "number": 12345,
+                "number": "number",
                 "complement": "string"
             }
         },
@@ -353,10 +353,10 @@
             "card": {
                 "name": "string",
                 "number": "string",
-                "code": 123,
+                "code": "string",
                 "expires": {
-                    "month": 12,
-                    "year": 2024
+                    "month": "number",
+                    "year": "number"
                 }
             }
         }
